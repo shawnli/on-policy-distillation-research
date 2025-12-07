@@ -61,9 +61,10 @@ On-Policy Distillation 结合了强化学习（RL）和监督微调（SFT）的�
 2. **持续学习**: 缓解灾难性遗忘问题
 3. **Token 级反馈**: 在每个 token 上提供密集的监督信号
 
-## 📖 技术细节
+## 📖 文档
 
-详见 [技术原理说明文档](./技术原理说明.md)
+- **[技术原理说明](./技术原理说明.md)**: 深入解析 On-Policy Distillation 的核心技术原理
+- **[代码使用指南](./代码使用指南.md)**: 详细的代码使用教程和示例
 
 ## 🔗 相关资源
 
@@ -86,3 +87,11 @@ On-Policy Distillation 结合了强化学习（RL）和监督微调（SFT）的�
 
 - TRL: Apache-2.0 License
 - Tinker Cookbook: Apache-2.0 License
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 Pull Request 来改进本仓库！
+
+## ⭐ Star History
+
+如果这个仓库对您有帮助，欢迎给个 Star！
